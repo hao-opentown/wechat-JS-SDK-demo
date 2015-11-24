@@ -6,12 +6,8 @@
 module.exports = function(){
 	return [
 			{
-				appid: 'wx211e56118677xxxx'
-				,secret: 'e2f63d171ac1b3170cf44920872fxxxx'
-			}
-			,{
-				appid: 'wxa0f06601f194xxxx'
-				,secret: '097fd14bac218d0fb016d02f525dxxxx'
+				appid: 'wx28e3f39d846c6052'
+				,secret: 'ea83fc39277d90f2f7d75b8399e960c7'
 			}
 		];
 };
